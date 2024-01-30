@@ -8,4 +8,4 @@ which includes information such as the number of bedrooms, area in square feet, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Suhailkhan300623/PRODIGY_ML.git
-   cd bangalore-house-price-prediction
+   cd PRODIGY_ML
